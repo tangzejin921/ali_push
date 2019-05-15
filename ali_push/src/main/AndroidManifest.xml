@@ -40,10 +40,10 @@
         android:name=".AliPushApplication">
         <meta-data
             android:name="com.alibaba.app.appkey"
-            android:value="@string/ali_push_appKey" />
+            android:value="@string/aliyun_key" />
         <meta-data
             android:name="com.alibaba.app.appsecret"
-            android:value="@string/ali_push_appSecret" />
+            android:value="@string/aliyun_secret" />
         <!-- Push SDK 相关组件，required-->
 
 

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="ali_push_appKey"></string>
-    <string name="ali_push_appSecret"></string>
+    <!--aliyun-->
+    <string name="aliyun_key"></string>
+    <string name="aliyun_secret"></string>
+    <!--aliyun END-->
 
 </resources>
